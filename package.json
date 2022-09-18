@@ -1,0 +1,23 @@
+{
+  "name": "db-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_functions/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "div": "run ,netlify dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "build": "^0.1.4",
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "netlify-cli": "^11.8.0"
+  }
+}
